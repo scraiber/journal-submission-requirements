@@ -1,0 +1,809 @@
+{
+ "generated": "2026-08-27",
+ "total_journals": 7239,
+ "journals_with_values": 6673,
+ "total_requirement_rules": 86631,
+ "total_published_values": 44114,
+ "field_mapped": 7239,
+ "overall": {
+  "word_limit": {
+   "n": 1692,
+   "median": 7500.0,
+   "p25": 5000.0,
+   "p75": 10000.0,
+   "mean": 7425.0,
+   "most_common": [
+    [
+     8000,
+     297
+    ],
+    [
+     10000,
+     239
+    ],
+    [
+     5000,
+     152
+    ],
+    [
+     6000,
+     141
+    ],
+    [
+     3000,
+     106
+    ],
+    [
+     7000,
+     105
+    ],
+    [
+     4000,
+     105
+    ],
+    [
+     9000,
+     91
+    ]
+   ]
+  },
+  "abstract_word_limit": {
+   "n": 4715,
+   "median": 250,
+   "p25": 200.0,
+   "p75": 250.0,
+   "mean": 238.7,
+   "most_common": [
+    [
+     250,
+     2833
+    ],
+    [
+     200,
+     682
+    ],
+    [
+     150,
+     421
+    ],
+    [
+     300,
+     377
+    ],
+    [
+     350,
+     154
+    ],
+    [
+     100,
+     119
+    ],
+    [
+     500,
+     24
+    ],
+    [
+     400,
+     21
+    ]
+   ]
+  },
+  "reference_limit": {
+   "n": 403,
+   "median": 50,
+   "p25": 35.0,
+   "p75": 60.0,
+   "mean": 51.5,
+   "most_common": [
+    [
+     50,
+     118
+    ],
+    [
+     40,
+     70
+    ],
+    [
+     30,
+     57
+    ],
+    [
+     60,
+     35
+    ],
+    [
+     100,
+     27
+    ],
+    [
+     80,
+     19
+    ],
+    [
+     35,
+     18
+    ],
+    [
+     75,
+     13
+    ]
+   ]
+  },
+  "display_item_limit": {
+   "n": 459,
+   "median": 7,
+   "p25": 5.0,
+   "p75": 8.0,
+   "mean": 6.8,
+   "most_common": [
+    [
+     8,
+     119
+    ],
+    [
+     6,
+     106
+    ],
+    [
+     5,
+     60
+    ],
+    [
+     10,
+     48
+    ],
+    [
+     7,
+     41
+    ],
+    [
+     4,
+     28
+    ],
+    [
+     1,
+     22
+    ],
+    [
+     3,
+     8
+    ]
+   ]
+  },
+  "page_limit": {
+   "n": 717,
+   "median": 25,
+   "p25": 12.0,
+   "p75": 35.0,
+   "mean": 24.7,
+   "most_common": [
+    [
+     40,
+     84
+    ],
+    [
+     30,
+     75
+    ],
+    [
+     10,
+     75
+    ],
+    [
+     35,
+     65
+    ],
+    [
+     25,
+     64
+    ],
+    [
+     20,
+     61
+    ],
+    [
+     12,
+     42
+    ],
+    [
+     8,
+     35
+    ]
+   ]
+  },
+  "keywords_max": {
+   "n": 2065,
+   "median": 6,
+   "p25": 5.0,
+   "p75": 8.0,
+   "mean": 6.9,
+   "most_common": [
+    [
+     6,
+     668
+    ],
+    [
+     5,
+     488
+    ],
+    [
+     10,
+     341
+    ],
+    [
+     7,
+     250
+    ],
+    [
+     8,
+     157
+    ],
+    [
+     12,
+     85
+    ],
+    [
+     3,
+     44
+    ],
+    [
+     4,
+     27
+    ]
+   ]
+  },
+  "figure_limit": {
+   "n": 178,
+   "median": 6.5,
+   "p25": 5.0,
+   "p75": 10.0,
+   "mean": 7.5,
+   "most_common": [
+    [
+     10,
+     37
+    ],
+    [
+     5,
+     33
+    ],
+    [
+     6,
+     26
+    ],
+    [
+     8,
+     21
+    ],
+    [
+     4,
+     13
+    ],
+    [
+     7,
+     12
+    ],
+    [
+     2,
+     10
+    ],
+    [
+     12,
+     9
+    ]
+   ]
+  },
+  "title_character_limit": {
+   "n": 716,
+   "median": 50.0,
+   "p25": 40.0,
+   "p75": 120.0,
+   "mean": 78.5,
+   "most_common": [
+    [
+     40,
+     260
+    ],
+    [
+     150,
+     68
+    ],
+    [
+     100,
+     48
+    ],
+    [
+     50,
+     47
+    ],
+    [
+     30,
+     41
+    ],
+    [
+     120,
+     38
+    ],
+    [
+     70,
+     37
+    ],
+    [
+     60,
+     26
+    ]
+   ]
+  },
+  "running_title_character_limit": {
+   "n": 295,
+   "median": 40,
+   "p25": 40.0,
+   "p75": 50.0,
+   "mean": 45.7,
+   "most_common": [
+    [
+     40,
+     174
+    ],
+    [
+     50,
+     62
+    ],
+    [
+     60,
+     18
+    ],
+    [
+     45,
+     16
+    ],
+    [
+     70,
+     5
+    ],
+    [
+     54,
+     4
+    ],
+    [
+     80,
+     3
+    ],
+    [
+     30,
+     3
+    ]
+   ]
+  }
+ },
+ "word_limit_histogram": [
+  {
+   "label": "0\u20133k",
+   "lo": 0,
+   "hi": 2999,
+   "n": 53
+  },
+  {
+   "label": "3\u20134k",
+   "lo": 3000,
+   "hi": 3999,
+   "n": 180
+  },
+  {
+   "label": "4\u20135k",
+   "lo": 4000,
+   "hi": 4999,
+   "n": 145
+  },
+  {
+   "label": "5\u20136k",
+   "lo": 5000,
+   "hi": 5999,
+   "n": 175
+  },
+  {
+   "label": "6\u20137k",
+   "lo": 6000,
+   "hi": 6999,
+   "n": 157
+  },
+  {
+   "label": "7\u20138k",
+   "lo": 7000,
+   "hi": 7999,
+   "n": 145
+  },
+  {
+   "label": "8\u20139k",
+   "lo": 8000,
+   "hi": 8999,
+   "n": 313
+  },
+  {
+   "label": "9\u201310k",
+   "lo": 9000,
+   "hi": 9999,
+   "n": 96
+  },
+  {
+   "label": "10k",
+   "lo": 10000,
+   "hi": 40000,
+   "n": 428
+  }
+ ],
+ "abstract_common": [
+  [
+   250,
+   2833
+  ],
+  [
+   200,
+   682
+  ],
+  [
+   150,
+   421
+  ],
+  [
+   300,
+   377
+  ],
+  [
+   350,
+   154
+  ],
+  [
+   100,
+   119
+  ],
+  [
+   500,
+   24
+  ],
+  [
+   400,
+   21
+  ],
+  [
+   120,
+   19
+  ],
+  [
+   125,
+   10
+  ]
+ ],
+ "by_field": {
+  "Engineering": {
+   "journals": 648,
+   "abstract_word_limit": {
+    "n": 464,
+    "median": 250.0
+   },
+   "word_limit": {
+    "n": 91,
+    "median": 7500
+   }
+  },
+  "Mathematics": {
+   "journals": 124,
+   "abstract_word_limit": {
+    "n": 89,
+    "median": 250
+   }
+  },
+  "Medicine": {
+   "journals": 1411,
+   "word_limit": {
+    "n": 311,
+    "median": 4000
+   },
+   "abstract_word_limit": {
+    "n": 796,
+    "median": 250.0
+   },
+   "reference_limit": {
+    "n": 179,
+    "median": 45
+   }
+  },
+  "Business, Management and Accounting": {
+   "journals": 304,
+   "abstract_word_limit": {
+    "n": 201,
+    "median": 250
+   },
+   "word_limit": {
+    "n": 124,
+    "median": 9000.0
+   }
+  },
+  "Chemistry": {
+   "journals": 154,
+   "word_limit": {
+    "n": 22,
+    "median": 5600.0
+   },
+   "abstract_word_limit": {
+    "n": 107,
+    "median": 250
+   }
+  },
+  "Decision Sciences": {
+   "journals": 84,
+   "abstract_word_limit": {
+    "n": 59,
+    "median": 250
+   },
+   "word_limit": {
+    "n": 24,
+    "median": 10000.0
+   }
+  },
+  "Computer Science": {
+   "journals": 323,
+   "abstract_word_limit": {
+    "n": 212,
+    "median": 250.0
+   },
+   "word_limit": {
+    "n": 27,
+    "median": 8000
+   }
+  },
+  "Neuroscience": {
+   "journals": 209,
+   "word_limit": {
+    "n": 37,
+    "median": 5000
+   },
+   "abstract_word_limit": {
+    "n": 140,
+    "median": 250.0
+   }
+  },
+  "Energy": {
+   "journals": 46,
+   "abstract_word_limit": {
+    "n": 35,
+    "median": 250
+   }
+  },
+  "Materials Science": {
+   "journals": 148,
+   "abstract_word_limit": {
+    "n": 118,
+    "median": 250.0
+   },
+   "word_limit": {
+    "n": 18,
+    "median": 5800.0
+   }
+  },
+  "Earth and Planetary Sciences": {
+   "journals": 193,
+   "word_limit": {
+    "n": 34,
+    "median": 8000.0
+   },
+   "abstract_word_limit": {
+    "n": 138,
+    "median": 250.0
+   }
+  },
+  "Environmental Science": {
+   "journals": 410,
+   "word_limit": {
+    "n": 74,
+    "median": 7500.0
+   },
+   "abstract_word_limit": {
+    "n": 281,
+    "median": 250
+   },
+   "reference_limit": {
+    "n": 20,
+    "median": 50.0
+   }
+  },
+  "Biochemistry, Genetics and Molecular Biology": {
+   "journals": 567,
+   "word_limit": {
+    "n": 102,
+    "median": 5300.0
+   },
+   "abstract_word_limit": {
+    "n": 353,
+    "median": 250
+   },
+   "reference_limit": {
+    "n": 46,
+    "median": 50.0
+   }
+  },
+  "Physics and Astronomy": {
+   "journals": 165,
+   "abstract_word_limit": {
+    "n": 126,
+    "median": 250.0
+   }
+  },
+  "Health Professions": {
+   "journals": 169,
+   "word_limit": {
+    "n": 50,
+    "median": 4400.0
+   },
+   "abstract_word_limit": {
+    "n": 85,
+    "median": 250
+   },
+   "reference_limit": {
+    "n": 24,
+    "median": 37.5
+   }
+  },
+  "Agricultural and Biological Sciences": {
+   "journals": 365,
+   "abstract_word_limit": {
+    "n": 242,
+    "median": 250.0
+   },
+   "word_limit": {
+    "n": 68,
+    "median": 7500.0
+   }
+  },
+  "Social Sciences": {
+   "journals": 839,
+   "word_limit": {
+    "n": 388,
+    "median": 9000.0
+   },
+   "abstract_word_limit": {
+    "n": 562,
+    "median": 200.0
+   }
+  },
+  "Immunology and Microbiology": {
+   "journals": 88,
+   "abstract_word_limit": {
+    "n": 51,
+    "median": 250
+   },
+   "word_limit": {
+    "n": 17,
+    "median": 6000
+   }
+  },
+  "Psychology": {
+   "journals": 345,
+   "abstract_word_limit": {
+    "n": 227,
+    "median": 250
+   },
+   "word_limit": {
+    "n": 90,
+    "median": 8000.0
+   }
+  },
+  "Economics, Econometrics and Finance": {
+   "journals": 314,
+   "abstract_word_limit": {
+    "n": 221,
+    "median": 250
+   },
+   "word_limit": {
+    "n": 76,
+    "median": 8000.0
+   }
+  },
+  "Nursing": {
+   "journals": 47,
+   "abstract_word_limit": {
+    "n": 31,
+    "median": 250
+   }
+  },
+  "Veterinary": {
+   "journals": 17
+  },
+  "Arts and Humanities": {
+   "journals": 164,
+   "word_limit": {
+    "n": 85,
+    "median": 9000
+   },
+   "abstract_word_limit": {
+    "n": 91,
+    "median": 200
+   }
+  },
+  "Dentistry": {
+   "journals": 56,
+   "abstract_word_limit": {
+    "n": 33,
+    "median": 250
+   }
+  },
+  "Chemical Engineering": {
+   "journals": 9
+  },
+  "Pharmacology, Toxicology and Pharmaceutics": {
+   "journals": 40,
+   "abstract_word_limit": {
+    "n": 31,
+    "median": 250
+   }
+  }
+ },
+ "top_publishers": [
+  [
+   "Elsevier BV",
+   1534
+  ],
+  [
+   "Springer Science+Business Media",
+   1083
+  ],
+  [
+   "Wiley",
+   931
+  ],
+  [
+   "SAGE Publishing",
+   536
+  ],
+  [
+   "Oxford University Press",
+   279
+  ],
+  [
+   "Taylor & Francis",
+   256
+  ],
+  [
+   "Cambridge University Press",
+   214
+  ],
+  [
+   "BioMed Central",
+   195
+  ],
+  [
+   "Emerald Publishing Limited",
+   145
+  ],
+  [
+   "Multidisciplinary Digital Publishing Institute",
+   139
+  ],
+  [
+   "Springer Nature",
+   121
+  ],
+  [
+   "Nature Portfolio",
+   86
+  ],
+  [
+   "American Chemical Society",
+   64
+  ],
+  [
+   "American Psychological Association",
+   55
+  ],
+  [
+   "Frontiers Media",
+   55
+  ]
+ ],
+ "by_domain": {
+  "Physical Sciences": 2220,
+  "Health Sciences": 1700,
+  "Social Sciences": 2050,
+  "Life Sciences": 1269
+ }
+}

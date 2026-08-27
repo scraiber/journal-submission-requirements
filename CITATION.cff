@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Journal Submission Requirements Dataset"
+type: dataset
+authors:
+  - name: "Scraiber"
+    website: "https://scraiber.com"
+repository-code: "https://github.com/scraiber/journal-submission-requirements"
+url: "https://scraiber.com/journals/statistics"
+license: CC-BY-4.0
+date-released: "2026-08-27"
+keywords:
+  - academic publishing
+  - journals
+  - author guidelines
+  - submission requirements
+  - word limits
+  - scholarly communication
+abstract: >-
+  Normalized submission requirements (word limits, abstract limits, reference
+  caps and other numeric rules) for 7,239 academic journals, collected from
+  each journal's own author guidelines and mapped to fields via OpenAlex.
