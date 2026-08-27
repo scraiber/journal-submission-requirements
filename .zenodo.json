@@ -1,7 +1,7 @@
 {
   "title": "Journal Submission Requirements Dataset",
   "upload_type": "dataset",
-  "description": "<p>Normalized submission requirements (word limits, abstract limits, reference caps and other numeric rules) for 7,239 academic journals, collected from each journal's own author guidelines and mapped to fields via OpenAlex.</p><p>Interactive analysis: <a href=\"https://scraiber.com/journals/statistics\">https://scraiber.com/journals/statistics</a> &middot; Per-journal pages: <a href=\"https://scraiber.com/journals\">https://scraiber.com/journals</a></p>",
+  "description": "<p>Normalized submission requirements (word limits, abstract limits, reference caps and other numeric rules) for 7,239 academic journals, collected from each journal's own author guidelines and mapped to fields via OpenAlex.</p><p>Interactive analysis: <a href=\"https://scraiber.com/journal-statistics\">https://scraiber.com/journal-statistics</a> &middot; Per-journal pages: <a href=\"https://scraiber.com/journals\">https://scraiber.com/journals</a></p>",
   "creators": [{ "name": "Scraiber" }],
   "access_right": "open",
   "license": "cc-by-4.0",
@@ -15,7 +15,7 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://scraiber.com/journals/statistics",
+      "identifier": "https://scraiber.com/journal-statistics",
       "relation": "isSupplementTo",
       "scheme": "url"
     }

@@ -5,7 +5,7 @@ each journal's own author guidelines and mapped to fields via
 [OpenAlex](https://openalex.org).
 
 Maintained by [Scraiber](https://scraiber.com). Interactive analysis:
-**[scraiber.com/journals/statistics](https://scraiber.com/journals/statistics)** ·
+**[scraiber.com/journal-statistics](https://scraiber.com/journal-statistics)** ·
 Per-journal pages: [scraiber.com/journals](https://scraiber.com/journals)
 
 ## What's inside
@@ -42,11 +42,11 @@ Requirement `category` values: `LENGTH`, `CITATION`, `FIGURE`, `TABLE`,
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to share and
 adapt with attribution. Please cite Scraiber and link to
-<https://scraiber.com/journals/statistics>.
+<https://scraiber.com/journal-statistics>.
 
 ## Citation
 
 > Scraiber (2026). Journal Submission Requirements Dataset.
-> https://scraiber.com/journals/statistics
+> https://scraiber.com/journal-statistics
 
 See `CITATION.cff` for machine-readable citation metadata.
