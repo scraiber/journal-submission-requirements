@@ -8,6 +8,7 @@ authors:
 repository-code: "https://github.com/scraiber/journal-submission-requirements"
 url: "https://scraiber.com/journal-statistics"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22134469
 date-released: "2026-08-27"
 keywords:
   - academic publishing

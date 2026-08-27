@@ -1,5 +1,7 @@
 # Journal Submission Requirements Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22134469.svg)](https://doi.org/10.5281/zenodo.22134469)
+
 Normalized submission requirements for **7,239 academic journals**, collected from
 each journal's own author guidelines and mapped to fields via
 [OpenAlex](https://openalex.org).
@@ -47,6 +49,6 @@ adapt with attribution. Please cite Scraiber and link to
 ## Citation
 
 > Scraiber (2026). Journal Submission Requirements Dataset.
-> https://scraiber.com/journal-statistics
+> https://doi.org/10.5281/zenodo.22134469
 
 See `CITATION.cff` for machine-readable citation metadata.
