@@ -19,7 +19,7 @@ Per-journal pages: [scraiber.com/journals](https://scraiber.com/journals)
 ### Headline numbers (2026-08-27)
 
 - Median article **word limit**: 7,500 words (1,692 journals publish one)
-- Median **abstract word limit**: 250 words; ~92% of the 4,715 journals with a
+- Median **abstract word limit**: 250 words; 91% of the 4,715 journals with a
   published abstract limit use one of just four values: 150, 200, 250 or 300 words
 - Median **reference limit**: 50 references
 - Field coverage via OpenAlex: 100% of journals mapped to a primary field
